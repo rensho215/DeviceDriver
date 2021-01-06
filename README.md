@@ -15,10 +15,12 @@
 
 ## インストール方法、実行方法
 ~~~
-git clone https://github.com/rensho215/device_driver.git
+git clone https://github.com/rensho215/DeviceDriver.git
 cd myled
 make
 sudo insmod myled.ko
 sudo chmod 666 /dev/myled0
-echo (0 or 1 or 2) > /dev/myled0
+echo 1> /dev/myled0
+echo 2> /dev/myled0
+echo 0> /dev/myled0
 ~~~
