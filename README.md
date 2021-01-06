@@ -40,4 +40,4 @@ echo 0 > /dev/myled0
 - echo 3の時は真ん中のledと右のledが点灯。
 
 ## 動画
-動画のurl:
+動画のurl:https://youtu.be/BtMhLpVBUeQ
