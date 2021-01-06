@@ -27,3 +27,7 @@ echo 0> /dev/myled0
 
 ## 回路図
 下の画像のように回路を作成した。
+![IMG_E5486](https://user-images.githubusercontent.com/72724172/103718174-8585d380-5009-11eb-843c-7a3879a7bb72.JPG)
+
+## 改造事項
+- echo 
