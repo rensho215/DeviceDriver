@@ -24,3 +24,6 @@ echo 1> /dev/myled0
 echo 2> /dev/myled0
 echo 0> /dev/myled0
 ~~~
+
+## 回路図
+下の画像のように回路を作成した。
